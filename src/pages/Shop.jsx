@@ -1,5 +1,5 @@
 import React, { use, useEffect } from "react";
-import ProductCard from "../components/card/productcard";
+import ProductCard from "../components/card/Productcard";
 import useEcomStore from "../store/ecom-store";
 import SearchCard from "../components/card/SearchCard";
 import CartCard from "../components/card/CartCard";
